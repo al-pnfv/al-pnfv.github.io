@@ -4,12 +4,6 @@
     "details": [
       {
         "appID": "RBL82W4224.ru.belkacar",
-        "components": [
-          {
-            "/": "*",
-            "comment": "Matches any URL whose path starts with URL_PATH and instructs the system not to open it as a universal link"
-          }
-        ],
         "paths": [
           "/deeplink/"
         ]
