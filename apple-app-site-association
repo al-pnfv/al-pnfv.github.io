@@ -6,7 +6,9 @@
         "appID": "RBL82W4224.ru.belkacar",
         "paths": [
             "/deeplink"
-        ],
+        ]
+      },
+      {
         "appIDs": [
             "RBL82W4224.ru.belkacar"
         ],
