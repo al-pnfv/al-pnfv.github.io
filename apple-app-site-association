@@ -1,26 +1,21 @@
 {
-		"webcredentials": {
-				"apps": [
-						"TEAMID.com.kasey.TipMe"
-				]
-		},
-		"applinks": {
-				"apps": [],
-				"details": [
-						{
-								"appID": "TEAMID.com.kasey.TipMe",
-								"paths": [
-										"/pay"
-								],
-								"appIDs": [
-										"TEAMID.com.kasey.TipMe"
-								],
-								"components": [
-										{
-												"/": "/pay"
-										}
-								]
-						}
-				]
-		}
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "RBL82W4224.ru.belkacar",
+        "paths": [
+            "/deeplink"
+        ],
+        "appIDs": [
+            "RBL82W4224.ru.belkacar"
+        ],
+        "components": [
+            {
+                "/": "/deeplink"
+            }
+        ]
+      }
+    ]
+  }
 }
