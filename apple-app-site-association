@@ -10,12 +10,6 @@
            "comment": "Matches any URL whose fragment equals deeplink and instructs the system to open it as a universal link"
           }
         ]
-      },
-      {
-        "appID": "RBL82W4224.ru.belkacar",
-        "paths": [
-          "\"
-        ]
       }
     ]
   }
