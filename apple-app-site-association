@@ -6,9 +6,12 @@
         "appID": "RBL82W4224.ru.belkacar",
         "components": [
           {
-           "/" : "*",
-           "comment": "Matches any URL whose fragment equals deeplink and instructs the system to open it as a universal link"
+            "/": "*",
+            "comment": "Matches any URL whose path starts with URL_PATH and instructs the system not to open it as a universal link"
           }
+        ],
+        "paths": [
+          "*"
         ]
       }
     ]
